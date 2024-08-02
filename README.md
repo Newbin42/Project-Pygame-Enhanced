@@ -11,7 +11,7 @@ A series of features for use with the Pygame library. This adds and improves fea
 > Requires the original Pygame library to function.     
 > Get it at [Pygame.org](https://www.pygame.org/).
 
-> [!INFO]   
+> [!NOTE]   
 > There should be no need to use the "testing" file under normal circumstances.
 
 ## Current Features
